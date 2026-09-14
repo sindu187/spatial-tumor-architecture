@@ -1,0 +1,14 @@
+"cell_type","spearman_correlation"
+"Cancer.Basal.SC",0.821171190099296
+"Luminal.Progenitors",0.762682612646803
+"Myoepithelial",0.759725626576887
+"CAFs.MSC.iCAF.like",0.696115523032269
+"Macrophage",0.51951863511835
+"Endothelial.ACKR1",0.431675811523736
+"PVL.Immature",0.377858632318136
+"B.cells.Memory",NA
+"Cycling.T.cells",NA
+"DCs",NA
+"Plasmablasts",NA
+"T.cells.CD4.",NA
+"T.cells.CD8.",NA

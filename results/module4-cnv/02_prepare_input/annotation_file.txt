@@ -1,0 +1,1152 @@
+AACATTGGTCAGCCGT-1	Normal + stroma + lymphocytes
+CATCGAATGGATCTCT-1	Normal + stroma + lymphocytes
+CGGGTTGTAGCTTTGG-1	Normal + stroma + lymphocytes
+CCTAAGTGTCTAACCG-1	Normal + stroma + lymphocytes
+TCTGTGACTGACCGTT-1	Normal + stroma + lymphocytes
+TTATCATACTCGCAAA-1	Normal + stroma + lymphocytes
+AGCGTAGCGCTAGACC-1	Normal + stroma + lymphocytes
+AGGTCGCCACTTCGGT-1	Normal + stroma + lymphocytes
+TTGCTAGCTACCAATC-1	Normal + stroma + lymphocytes
+GCCGGTTTGGGCGGAT-1	Normal + stroma + lymphocytes
+TGTAACTTGTCAACCT-1	Normal + stroma + lymphocytes
+CGAGATGTTGCCTATA-1	Normal + stroma + lymphocytes
+GTTACGAAATCCACGC-1	Normal + stroma + lymphocytes
+CTTGTCGTACGTGTCA-1	Normal + stroma + lymphocytes
+GCGTCCAGCTCGTGGC-1	Normal + stroma + lymphocytes
+CCCTTCTCGTACGCGA-1	Normal + stroma + lymphocytes
+CCAAAGTCCCGCTAAC-1	Normal + stroma + lymphocytes
+CCGCTTCGCGGTTAAC-1	Normal + stroma + lymphocytes
+GTTACGGCCCGACTGC-1	Normal + stroma + lymphocytes
+CCCGCTTGCCCTCGTC-1	Normal + stroma + lymphocytes
+TAGTGAGAAGTGGTTG-1	Normal + stroma + lymphocytes
+AAACAATCTACTAGCA-1	Normal + stroma + lymphocytes
+CACGACTAAAGTTCTG-1	Stroma + adipose tissue
+GAAGACTTCAATGCCG-1	Stroma + adipose tissue
+ACCAAACTAGAAATCC-1	Stroma + adipose tissue
+GACCAGGTCATTCATA-1	Stroma + adipose tissue
+GTATCGGGACGAGCTG-1	Normal + stroma + lymphocytes
+CCTGTGCATAGGAGAC-1	Normal + stroma + lymphocytes
+CATACGGGTGCATGAT-1	Normal + stroma + lymphocytes
+CCACTAAACTGAATCG-1	Normal + stroma + lymphocytes
+AAATTGCGGCGGTTCT-1	Normal + stroma + lymphocytes
+AGTCCAGCGGGTACGT-1	Normal + stroma + lymphocytes
+CATTCAGGTCAGTGCG-1	Normal + stroma + lymphocytes
+CTAAAGTCCGAAGCTA-1	Normal + stroma + lymphocytes
+AATCAGACTGCAGGAC-1	Normal + stroma + lymphocytes
+AGTATCCATAATAACG-1	Normal + stroma + lymphocytes
+CTGGCTGCTAACGTAA-1	Normal + stroma + lymphocytes
+GTTCCAAGACAGCGAC-1	Normal + stroma + lymphocytes
+AAGACTAACCCGTTGT-1	Normal + stroma + lymphocytes
+GATTAATCCTGGCTCA-1	Normal + stroma + lymphocytes
+CGCGCAAGGAACTACA-1	Normal + stroma + lymphocytes
+CAGTAGCGAGGTAGTA-1	Normal + stroma + lymphocytes
+ACGGCGGGTTGCCCTG-1	Normal + stroma + lymphocytes
+CTAGGCGGCAGAGAAT-1	Normal + stroma + lymphocytes
+GTGCGCAGCTTGCTCC-1	Normal + stroma + lymphocytes
+TCACTATCGTGCAATC-1	Normal + stroma + lymphocytes
+TATGATTCTGCTTGGT-1	Normal + stroma + lymphocytes
+TAAGATTTAGCGGGAG-1	Normal + stroma + lymphocytes
+TTACGGTGTCACCGAG-1	Normal + stroma + lymphocytes
+CTACACTAGCTTGTTC-1	Normal + stroma + lymphocytes
+TGAGCAGTCGTGAAGT-1	Normal + stroma + lymphocytes
+CGCTGAGGACGTCCAA-1	Normal + stroma + lymphocytes
+GTGTATGACTTTAAAG-1	Normal + stroma + lymphocytes
+CTAAACGGGTGTAATC-1	Normal + stroma + lymphocytes
+TGTACTGTGCCAAAGT-1	Normal + stroma + lymphocytes
+GGCCACAAGCGATGGC-1	Normal + stroma + lymphocytes
+GTCAATTGTACTGAAG-1	Normal + stroma + lymphocytes
+AGGGACAGCACGGCGG-1	Stroma + adipose tissue
+AGCTTATAGAGACCTG-1	Stroma + adipose tissue
+AACTTTAGCTGCTGAG-1	Stroma + adipose tissue
+CCCAAGACAGAGTATG-1	Stroma + adipose tissue
+GGCATCAACGAGCACG-1	Stroma + adipose tissue
+ATGCATTCCGTGATGG-1	Stroma + adipose tissue
+TTATAGATGCACATTA-1	Stroma + adipose tissue
+GAACCATCTGGGAGAC-1	Stroma + adipose tissue
+TGCTATACAAACGGAC-1	Stroma + adipose tissue
+ACTTGCCATATTGTAC-1	Stroma + adipose tissue
+TATTCCGGCAGTCCTA-1	Stroma + adipose tissue
+GACGGACCGCGTTCCT-1	Stroma + adipose tissue
+AAGTTTACTAATGGCA-1	Stroma + adipose tissue
+GATTGACACTCTGCTC-1	Stroma + adipose tissue
+TATCACAGCACGGGCA-1	Stroma + adipose tissue
+ACCGTTCCCGCTCTGA-1	Stroma + adipose tissue
+CCGCCACCACAATCCA-1	Stroma + adipose tissue
+CATTCACTGACAGCTA-1	Stroma + adipose tissue
+CGGCTGCAAGATTAAG-1	Stroma + adipose tissue
+TTAATGCGAGGTAACT-1	Stroma + adipose tissue
+AATAAGTCCTCGAGAC-1	Stroma + adipose tissue
+TGGAAACGGAGTGAAC-1	Normal + stroma + lymphocytes
+ATCGCACGATTGTTCA-1	Normal + stroma + lymphocytes
+CGCCACCCGCATTAAC-1	Normal + stroma + lymphocytes
+TGGACCACGGCGTTGA-1	Normal + stroma + lymphocytes
+GTATATGTTACGGCGG-1	Normal + stroma + lymphocytes
+GTATTCTTACCGTGCT-1	Normal + stroma + lymphocytes
+TTCAGAGTAACCTGAC-1	Normal + stroma + lymphocytes
+GCGGTAACCCAAATGA-1	Normal + stroma + lymphocytes
+CTACGTGTTGCCACCA-1	Normal + stroma + lymphocytes
+CTAGATAAACTCCTCG-1	Normal + stroma + lymphocytes
+TCCATTAGTTGGATAG-1	Normal + stroma + lymphocytes
+CTGGCTCCTGCGGGAT-1	Normal + stroma + lymphocytes
+CAGTCTCTCGGCTAAT-1	Normal + stroma + lymphocytes
+GTATGACGTGGGAAAC-1	Normal + stroma + lymphocytes
+AGTCACTCCGCCTCAT-1	Normal + stroma + lymphocytes
+GCAGCGGTGGGCATTA-1	Normal + stroma + lymphocytes
+TATGGAGTTTCTCGTT-1	Normal + stroma + lymphocytes
+ACTCAACGAATGTATT-1	Normal + stroma + lymphocytes
+AACACGCGGCCGCGAA-1	Normal + stroma + lymphocytes
+CGATATTAGCCGCAGG-1	Normal + stroma + lymphocytes
+AGCGTCTGAACCCGCA-1	Normal + stroma + lymphocytes
+GATGTCCGGATCACAT-1	Normal + stroma + lymphocytes
+GGTCACGTTAGATTCA-1	Normal + stroma + lymphocytes
+TTAAGGATACGGAGGT-1	Normal + stroma + lymphocytes
+GTGCGGGACCATCGGC-1	Normal + stroma + lymphocytes
+CCATCTTGTTCACAAT-1	Normal + stroma + lymphocytes
+TCCGAGAAGGCTAAGC-1	Normal + stroma + lymphocytes
+TGGCGGTGTGCGATTG-1	Normal + stroma + lymphocytes
+ATCCTGCTGCAGATAG-1	Normal + stroma + lymphocytes
+TTATGCGTCCCGGTCC-1	Normal + stroma + lymphocytes
+CATAATGAGCGGGCGA-1	Normal + stroma + lymphocytes
+AGACATAGATCCTTCC-1	Stroma + adipose tissue
+AACTGGTGTGGGCCTT-1	Stroma + adipose tissue
+GTAGCGCTGTTGTAGT-1	Stroma + adipose tissue
+TTGTTTGTGTAAATTC-1	Stroma + adipose tissue
+GGATCAAAGGACGAGG-1	Stroma + adipose tissue
+CGTAGCGCCGACGTTG-1	Stroma + adipose tissue
+CAAGTGAACTTTGGTT-1	Stroma + adipose tissue
+CAATGGTCGGCCTGGG-1	Stroma + adipose tissue
+ACAGATTAGGTTAGTG-1	Stroma + adipose tissue
+GTTATCACCTTCTGAA-1	Stroma + adipose tissue
+TGGTATCGGTCTGTAT-1	Stroma + adipose tissue
+GGAATAACCTCAAGAA-1	Stroma + adipose tissue
+CCGAGGGATGTTAGGC-1	Stroma + adipose tissue
+TGAGATCAAATACTCA-1	Stroma + adipose tissue
+AAACGAAGAACATACC-1	Stroma + adipose tissue
+TGGAGCTAAAGTTCCC-1	Stroma + adipose tissue
+GGGTGGTCCAGCCTGT-1	Stroma + adipose tissue
+CATGCATGGAGACCCT-1	Stroma + adipose tissue
+ACACGGCACTATGCAT-1	Stroma + adipose tissue
+CAATATTGGACTAGTG-1	Normal + stroma + lymphocytes
+CGTGCTGGCCTAGTCG-1	Normal + stroma + lymphocytes
+CCTGCGATAGAACTGT-1	Normal + stroma + lymphocytes
+GGGTAATGCTGTGTTT-1	Normal + stroma + lymphocytes
+AACGCGAACGGCAACA-1	Normal + stroma + lymphocytes
+TGTCGGCATGGTGGAA-1	Normal + stroma + lymphocytes
+AGCGTACGAGAGCTAG-1	Normal + stroma + lymphocytes
+ATACTCTCGCCACTCT-1	Normal + stroma + lymphocytes
+AATCCATGCAAGGGTG-1	Normal + stroma + lymphocytes
+TTAAACAGAGTCCCGC-1	Normal + stroma + lymphocytes
+CCACAGCTGAAATCAT-1	Normal + stroma + lymphocytes
+CGGTTCCGGCTTCTTG-1	Normal + stroma + lymphocytes
+GACGTGAGACTCCATG-1	Normal + stroma + lymphocytes
+TCGTTGGCTCGTCAAT-1	Normal + stroma + lymphocytes
+GGTGAACGGGCTAGCC-1	Normal + stroma + lymphocytes
+GCACTGTGCAAATGTA-1	Normal + stroma + lymphocytes
+ACGAGAACCCATCACG-1	Normal + stroma + lymphocytes
+CCAGCTACGCCTCATA-1	Normal + stroma + lymphocytes
+TCCCGGTCAGGAATTT-1	Normal + stroma + lymphocytes
+TCGCATTCAATGACTT-1	Normal + stroma + lymphocytes
+CTGGTTCAACGCATCA-1	Normal + stroma + lymphocytes
+GGTGATTTCATCTTGT-1	Normal + stroma + lymphocytes
+CACCCTTTCCTCGCTC-1	Normal + stroma + lymphocytes
+CAACTTGTAGTGGGCA-1	Normal + stroma + lymphocytes
+AATATCAAGGTCGGAT-1	Normal + stroma + lymphocytes
+ACTCAGACCTGCTTCT-1	Normal + stroma + lymphocytes
+TTGGAGTCTCCCTTCT-1	Normal + stroma + lymphocytes
+GGATACTCATGAATTG-1	Normal + stroma + lymphocytes
+TGGGCACAAACAGAAC-1	Stroma + adipose tissue
+GAGCCACGGTAGTAGG-1	Stroma + adipose tissue
+TAACCGCCCGCAGTGC-1	Stroma + adipose tissue
+GCCTATTTGCTACACA-1	Stroma + adipose tissue
+TTGACGATTCAGCACG-1	Stroma + adipose tissue
+TTAAACCGGTAGCGAC-1	Stroma + adipose tissue
+ACCGAAAGGGCCCTGC-1	Stroma + adipose tissue
+ACGTTCCGCGCTCCGT-1	Stroma + adipose tissue
+CGGCTTTGTATGATAA-1	Stroma + adipose tissue
+CTTGACCCGAAAGATA-1	Stroma + adipose tissue
+CGCAGAAACATTTGCG-1	Stroma + adipose tissue
+GACCCGTCGCCGGCTA-1	Stroma + adipose tissue
+CCCAACCACACTAACA-1	Stroma + adipose tissue
+CACCGCCGACCAGCGA-1	Stroma + adipose tissue
+TGGTATCGCATCCCAA-1	Stroma + adipose tissue
+CAGAGTGATTTAACGT-1	Stroma + adipose tissue
+AACCCTGGTGGAACCA-1	Stroma + adipose tissue
+GTCAGTTGTGCTCGTT-1	Stroma + adipose tissue
+CAATGGAATCTACATA-1	Stroma
+ATGGCTGGAAATGGCC-1	DCIS
+CACATGTTTGGACATG-1	Normal + stroma + lymphocytes
+TTCGCATCCGGAAGCA-1	Normal + stroma + lymphocytes
+CCCTAGTGTCAGGTGT-1	Normal + stroma + lymphocytes
+TTACCGCCTTAGGGAA-1	Normal + stroma + lymphocytes
+CCAGTCCATTATTCGA-1	Normal + stroma + lymphocytes
+CGTAAACGCTTGAGTG-1	Normal + stroma + lymphocytes
+ATTCCTTCCAGGCGGT-1	Normal + stroma + lymphocytes
+TTCCTTTCTGTGTTGC-1	Normal + stroma + lymphocytes
+AGTTGACATCGGCTGG-1	Normal + stroma + lymphocytes
+AACTCGATGGCGCAGT-1	Normal + stroma + lymphocytes
+GATAAGGCAGATGCAA-1	Normal + stroma + lymphocytes
+GGCTGGCTAGCTTAAA-1	Normal + stroma + lymphocytes
+CCTCATGCAGCTACGA-1	Normal + stroma + lymphocytes
+GACGCCTGTTGCAGGG-1	Normal + stroma + lymphocytes
+TAATTAGATGGATATG-1	Normal + stroma + lymphocytes
+GAGGGCATCGCGTATC-1	Normal + stroma + lymphocytes
+CTTGTGAGTCTTTGAC-1	Normal + stroma + lymphocytes
+TCAACACATTGGGTAA-1	Normal + stroma + lymphocytes
+ACTGTATACGCGAGCA-1	Normal + stroma + lymphocytes
+GTGAAACGTGCTCCAC-1	Normal + stroma + lymphocytes
+CGAGTGCTATAGTTCG-1	Normal + stroma + lymphocytes
+GTACTGCATGAAGCGT-1	Normal + stroma + lymphocytes
+GTAACTTGCGGCAGTC-1	Normal + stroma + lymphocytes
+GAATCGCCGGACACGG-1	Normal + stroma + lymphocytes
+GGGAGTAATGGCTGGC-1	Normal + stroma + lymphocytes
+CATGAACCGACATTTG-1	Normal + stroma + lymphocytes
+TCTGTCATACAAGAGC-1	Normal + stroma + lymphocytes
+GTCGTCAATTATAAGG-1	Normal + stroma + lymphocytes
+TAAAGAGCCCGAAACC-1	Normal + stroma + lymphocytes
+GTACTGAGGTCGTAAC-1	Normal + stroma + lymphocytes
+AAAGACCCAAGTCGCG-1	Stroma + adipose tissue
+CGTCAGTGCGCACAAG-1	Normal + stroma + lymphocytes
+TGTATCCTTATTCCAT-1	Stroma + adipose tissue
+ATTCTCGTCTCTTTAG-1	Stroma + adipose tissue
+AAAGTCACTGATGTAA-1	Stroma + adipose tissue
+TGTCTACAGTTTCTGT-1	Stroma + adipose tissue
+TTAACGTCGCAAGACC-1	Stroma + adipose tissue
+CTATGTCTATTGAAAC-1	Stroma + adipose tissue
+ACAGCATAGAGCCAGT-1	Stroma + adipose tissue
+ATATTCCCACAGGTCA-1	Stroma + adipose tissue
+CACCATCGGAGGAGAC-1	Stroma + adipose tissue
+GCACAAGTGTCGGAAG-1	Stroma + adipose tissue
+TACCAGCTAGGTTTAA-1	Stroma + adipose tissue
+ACGTACAGATTTCTCT-1	Stroma + adipose tissue
+AATTTGGTTCCAAAGA-1	Stroma + adipose tissue
+GTAAGGATTTGTCGGA-1	Stroma + adipose tissue
+CATCATCTACCCGGAC-1	Stroma + adipose tissue
+ACGATGGATCCGATGC-1	Stroma + adipose tissue
+CACTCAGCTCTTGAGG-1	Stroma + adipose tissue
+GGTAAATGTGCGTTAC-1	Stroma
+GGAAGCTCGCTTACAG-1	Stroma
+CACCGATACACCGAGC-1	Stroma
+CAGCCGGGCCCTCTAT-1	Stroma
+CGGAGCTTATAACACC-1	Stroma
+ATTACAACTACCGGCC-1	Stroma
+TCCTCTGGCCCATTAG-1	Stroma
+CGGCACCGTTAGCGCC-1	Stroma
+TCGGTCCCTGACTCCA-1	Stroma
+TGGTTGGAGGATCCTG-1	DCIS
+CTGCGGTAGTCACGTG-1	DCIS
+GTGCCTCAGTGTACGG-1	DCIS
+ATCGTTCACTTTCGCC-1	DCIS
+ACTTACCGGGCGCGCA-1	DCIS
+AGTTCTGCGTTGTATC-1	Normal + stroma + lymphocytes
+ACCCTATAGGACTGAG-1	Normal + stroma + lymphocytes
+TTAGATAGGTCGATAC-1	Normal + stroma + lymphocytes
+ATTGATAGCAACGAGA-1	Normal + stroma + lymphocytes
+TCTCGGCTCCAGGACT-1	Normal + stroma + lymphocytes
+CTTGAGGTTATCCCGA-1	Normal + stroma + lymphocytes
+AAGAAGGATCAGTTAG-1	Normal + stroma + lymphocytes
+GTACGACGGCGCTGCG-1	Normal + stroma + lymphocytes
+CTTATGTTGACTACCA-1	Normal + stroma + lymphocytes
+CGGCACTCAAGAAAGT-1	Normal + stroma + lymphocytes
+GTCAAAGTTTACATAG-1	Normal + stroma + lymphocytes
+CTCCTAAGTTATGTCT-1	Normal + stroma + lymphocytes
+ACTGTGCTAGTAGATC-1	Normal + stroma + lymphocytes
+GTTTGGCCGCTCAGCG-1	Normal + stroma + lymphocytes
+TTATCCAATCGAACTC-1	Normal + stroma + lymphocytes
+CCGTACCCAAGCGCCA-1	Normal + stroma + lymphocytes
+CATACAAAGCCGAACC-1	Normal + stroma + lymphocytes
+GGTCGGTAATTAGACA-1	Normal + stroma + lymphocytes
+AGCGGGAAGGGTCCAT-1	Normal + stroma + lymphocytes
+GCCCACCAAGGCTGTC-1	Normal + stroma + lymphocytes
+GTAGACGTCGTTACAT-1	Normal + stroma + lymphocytes
+GAGCATCATCCCTGGG-1	Normal + stroma + lymphocytes
+AGGTAACCTCCTATTC-1	Normal + stroma + lymphocytes
+GGTTTGAGTGCTGGAA-1	Normal + stroma + lymphocytes
+GCACTAGTCGCGCTAT-1	Normal + stroma + lymphocytes
+GGTAACTATGTATCTG-1	Normal + stroma + lymphocytes
+GCGGTCCCTAGACGCA-1	Normal + stroma + lymphocytes
+CGAGCGTTGATCAGCC-1	Normal + stroma + lymphocytes
+AATCCAAGGGCCTGAG-1	Normal + stroma + lymphocytes
+CCGTGCCCATGACGGC-1	Normal + stroma + lymphocytes
+GAAATTCACATCGCTG-1	Normal + stroma + lymphocytes
+CTCTGCGAAGCAAGCA-1	Normal + stroma + lymphocytes
+AGTAGGTAACATACAT-1	Normal + stroma + lymphocytes
+ATTGGGAATATCTTGG-1	Stroma + adipose tissue
+TAGAGCTACGAAGAAC-1	Stroma + adipose tissue
+TGCGGCATAGTTCAAC-1	Stroma + adipose tissue
+TAGTTTATTCTTGCTT-1	Stroma + adipose tissue
+GATATCTCATGCAATA-1	Stroma + adipose tissue
+CGTTTAAGCGGAGCAC-1	Stroma + adipose tissue
+CATGCTGGCTCCAATT-1	Stroma + adipose tissue
+GAAACAGCCATGCAGT-1	Stroma + adipose tissue
+AGTTTCGCAGGTCGGA-1	Stroma + adipose tissue
+CTCATGGCTCACAATC-1	Stroma + adipose tissue
+AACCGTTGTGTTTGCT-1	Stroma + adipose tissue
+ACCCTTCATCTGCGAA-1	Stroma + adipose tissue
+TGCGGTGAAATTTCAT-1	Stroma + adipose tissue
+CAAATTGTCAGCAAGC-1	Stroma + adipose tissue
+GAGGTACATCCATCTT-1	Stroma + adipose tissue
+TCATCCCAGAGGGTGG-1	Stroma + adipose tissue
+GAAACTCTAATGAAGG-1	Stroma
+TTCAAGCCGAGCTGAG-1	Stroma
+AGGTACGATATTGCCA-1	Stroma
+TTAAGCCGACAACTTC-1	Stroma
+GTCTTAGTACAGCCGG-1	Stroma
+TGGGTAAGGTTCCCGC-1	Stroma
+CTACGCCATTTCCGAT-1	Stroma
+GACCGTCAGGTCGTGA-1	Stroma
+TAGTTAAGATAGGATA-1	Stroma
+GAATATTCGGAGTCCC-1	Stroma
+CAAACTACGATAGAGA-1	Stroma
+CAGGAAGACTTTATAT-1	Stroma
+TTCGTAATCCCAGCGG-1	Stroma
+GTGAGGAGCGGTTGAG-1	Stroma
+CAATCCCTATACCAGC-1	Stroma
+AGGGAAACGAGGTACT-1	DCIS
+TCCTGCCAACTGGAGA-1	DCIS
+AATTTGGGACATAGTA-1	DCIS
+AACTCCTAATCCCATG-1	DCIS
+GCTCATTACTGCATGT-1	DCIS
+TCTCGAACGAGGTCAC-1	DCIS
+TCACTACGACCAATGC-1	DCIS
+AACTTGCGTTCTCGCG-1	Normal + stroma + lymphocytes
+AATGAGTTCGCATATG-1	Normal + stroma + lymphocytes
+CGAGGCCAGGCATTGG-1	Normal + stroma + lymphocytes
+TCTGCGTCCGGTTTCT-1	Normal + stroma + lymphocytes
+CAATCCTGCCGTGGAG-1	Normal + stroma + lymphocytes
+CTGAGCAAGTAACAAG-1	Normal + stroma + lymphocytes
+GGGTACCCACGGTCCT-1	Normal + stroma + lymphocytes
+ACGGAATTTAGCAAAT-1	Normal + stroma + lymphocytes
+GGGCGGTCCTATTGTC-1	Normal + stroma + lymphocytes
+ATGTTACGAGCAATAC-1	Normal + stroma + lymphocytes
+AACCATGGGATCGCTA-1	Normal + stroma + lymphocytes
+TCGCATCCCTAAGTGT-1	Normal + stroma + lymphocytes
+ACTTAGTACGACAAGA-1	Normal + stroma + lymphocytes
+GAGCTCTCGGACCTAA-1	Normal + stroma + lymphocytes
+TCTATTACGCTGGCGA-1	Normal + stroma + lymphocytes
+AGATACGACTTCATAT-1	Normal + stroma + lymphocytes
+CGCTATACCGCCCACT-1	Normal + stroma + lymphocytes
+CAGTGTCCGCAGAATG-1	Normal + stroma + lymphocytes
+CCATCCATACCAAGTC-1	Normal + stroma + lymphocytes
+AACCCAGAGACGGAGA-1	Normal + stroma + lymphocytes
+GAAGAACGGTGCAGGT-1	Normal + stroma + lymphocytes
+GATAAATCGGTGGATG-1	Normal + stroma + lymphocytes
+CAGCTCGTGCTTGTGT-1	Normal + stroma + lymphocytes
+GAGTACGGGTATACAA-1	Normal + stroma + lymphocytes
+CATCGCCCGCGGCCAA-1	Normal + stroma + lymphocytes
+TCTTACAGAGGTACCG-1	Normal + stroma + lymphocytes
+TGGAAGACGAACACCA-1	Normal + stroma + lymphocytes
+GTTGTCGTGTTAGTTG-1	Normal + stroma + lymphocytes
+CCAAGGAACAGAGAGG-1	Normal + stroma + lymphocytes
+CTGCACCTGGAACCGC-1	Normal + stroma + lymphocytes
+CGCTTTCATACCGGTG-1	Normal + stroma + lymphocytes
+GTTCTTCCCTCGATGT-1	Normal + stroma + lymphocytes
+ATTTAACTCGTATTAC-1	Stroma + adipose tissue
+AACGATAGAAGGGCCG-1	Stroma + adipose tissue
+TATCCTGCATGGGAAT-1	Stroma + adipose tissue
+AGGCCCATTGTACAGG-1	Stroma + adipose tissue
+ATCTGTAATTGTACCC-1	Stroma + adipose tissue
+GAGCGAGGGAGTACCG-1	Stroma + adipose tissue
+TTATTAGGGAAGCATC-1	Stroma + adipose tissue
+CTTCTTACGTCGTATA-1	Stroma + adipose tissue
+GAAGTGCTGGATAGCT-1	Stroma + adipose tissue
+GTGCAACAAATGTGGC-1	Stroma + adipose tissue
+CATGCGTTAGACAGAA-1	Stroma + adipose tissue
+ACACACTTTCTACACG-1	Stroma + adipose tissue
+ATTAATTCGGTCACTC-1	Stroma + adipose tissue
+CTCTGTTTGAGGATTC-1	Stroma
+TGGGCACGTTCTATGG-1	Stroma
+ACTATTCGTCCGTGGT-1	Stroma
+CCTCTGGCCTAGACGG-1	Stroma
+CCATAAACAACCCGAC-1	Stroma
+CATAGTACATTGAGAG-1	Stroma
+ATTTCATTATTTCGCG-1	Stroma
+CAACTATATCGAATGC-1	Stroma
+CTAGTATTCGGAATTA-1	Stroma
+GTGGAACCTACATGCG-1	Stroma
+CCTAAAGGCTGACGCT-1	Stroma
+CGTGACATTGGGTCGT-1	Stroma
+CCAATCGGTAGATCGA-1	Stroma
+ATTGTCGCAATACCTT-1	Stroma
+AAATTACACGACTCTG-1	Stroma
+CACTCCTCTCGGTCGG-1	Stroma
+AAATAACCATACGGGA-1	Stroma
+AGTTACTCTATCGTGG-1	DCIS
+CGTTAGCTCACAACTG-1	DCIS
+GAATGTATGGCAGGTC-1	DCIS
+GCAACCACCAGACCGG-1	DCIS
+TCACTCGTGCAACGGC-1	DCIS
+AAACAGAGCGACTCCT-1	DCIS
+CAGCCTCTCCTCAAGA-1	DCIS
+TTGCGTGAACGCTTAG-1	DCIS
+CCGCCTGCGAATTGGT-1	DCIS
+AGATGAGGGTTGCGAT-1	DCIS
+AAATGCTCGTTACGTT-1	Normal + stroma + lymphocytes
+CATTTCTAGCAGACTA-1	Normal + stroma + lymphocytes
+CCGAAAGTGGTGAGCA-1	Normal + stroma + lymphocytes
+AGTCAGCCACCGCCTG-1	Normal + stroma + lymphocytes
+CTCAGGACTCACCTGT-1	Normal + stroma + lymphocytes
+CGGTGTACTTGATCCC-1	Normal + stroma + lymphocytes
+CCTACGGCTCAGTCGA-1	Normal + stroma + lymphocytes
+GTACTTGGGCACTTCT-1	Normal + stroma + lymphocytes
+TGATTTCCTCCTGACG-1	Normal + stroma + lymphocytes
+CCTCACCAATCTTGAC-1	Normal + stroma + lymphocytes
+GGTGAGATGCAGATAA-1	Normal + stroma + lymphocytes
+GCTAGTTTCATTGAGG-1	Normal + stroma + lymphocytes
+AGGACATCGCACGTCG-1	Normal + stroma + lymphocytes
+GTGGACGTGCTGAGAC-1	Normal + stroma + lymphocytes
+TAAGGAACTTGTGGGA-1	Normal + stroma + lymphocytes
+TCGCTGTGCGTAAATC-1	Normal + stroma + lymphocytes
+GCATCCCTAACTTTGA-1	Normal + stroma + lymphocytes
+CACCCACACGTCACCC-1	Normal + stroma + lymphocytes
+CCCTCATTCTGGAATT-1	Normal + stroma + lymphocytes
+AGGGCGTGATCGGCTA-1	Normal + stroma + lymphocytes
+GGTGCGGATAAGTGGC-1	Normal + stroma + lymphocytes
+TAATATTGAAATTCGC-1	Normal + stroma + lymphocytes
+CTTACACTGGGAAATA-1	Normal + stroma + lymphocytes
+ACCAAGAACGCGTGTC-1	Normal + stroma + lymphocytes
+GCCTTCAGCCCTACCG-1	Normal + stroma + lymphocytes
+GATGCTACAAGCGCCT-1	Normal + stroma + lymphocytes
+CCGGGACCCGCAGAGA-1	Normal + stroma + lymphocytes
+GTTCCAGTCTGACCAT-1	Normal + stroma + lymphocytes
+ATGATCGGGAATAGAC-1	Stroma + adipose tissue
+TTGGATTGGGTACCAC-1	Stroma + adipose tissue
+TACCTCACGCTTGTAC-1	Stroma + adipose tissue
+ATGACGCCGGCTCTAA-1	Stroma + adipose tissue
+ACGCCAGATGATTTCT-1	Stroma
+AGCTATTTAATCCAAC-1	Stroma
+CCACGAGAAGAGAATC-1	Stroma
+GATTCCGCGTTTCCGT-1	Stroma
+GTCGGATGTAGCGCGC-1	Stroma
+TATTTATACCGAGTAG-1	Stroma
+GTAGGTGATCCGTGTA-1	Stroma
+AGTTAAGCGGTCCCGG-1	Stroma
+CTGGCGACATAAGTCC-1	Stroma
+TTGGCCTAGAATTTCG-1	Stroma
+GGCATATCGGTTCTGC-1	Stroma
+GGGCGTCCACTGGCTC-1	Stroma
+TTACCCATTGCCGGGT-1	Stroma
+TTAGACACGATCGTTG-1	Stroma
+GCGCTGATCCAGACTC-1	DCIS
+TTCGGCAACCCGCTGA-1	DCIS
+GATATTTCCTACATGG-1	DCIS
+CTGCGTTACGATATAA-1	DCIS
+TAATAAACAAGGAGAT-1	DCIS
+AACCTTTACGACGTCT-1	DCIS
+AGTCCCGCCTTTAATT-1	DCIS
+TGAGATTAGGCCCTAA-1	DCIS
+AGTGTATTGCGCATTG-1	DCIS
+GTTGGATTCAGTGGCT-1	DCIS
+TAAAGCTGCAATAGGG-1	DCIS
+AGTAGGAAGGAAGTTG-1	DCIS
+TATCACTTCGAGTAAC-1	DCIS
+ATATTGCTGTCAAAGT-1	Normal + stroma + lymphocytes
+CCTTCTTGATCCAGTG-1	Stroma
+CCTCGCCAGCAAATTA-1	Stroma
+TTCATGGCGCAACAGG-1	Stroma
+TTAATCAGTACGTCAG-1	Stroma
+CCTATCTATATCGGAA-1	Stroma
+ATTATACTTTGCTCGT-1	Stroma
+ATGGATCCGGCGTCCG-1	Stroma
+CGCCCGCTTCCGTACA-1	Stroma
+GGATTCCGCTATACCC-1	Stroma
+CGGTCTATCAACCCGT-1	Stroma
+ATGCCGGTTGATGGGA-1	Stroma
+TCATGCAGGTTCTCAT-1	Stroma
+TGAGCTTTAATGACGC-1	DCIS
+TCCCTTAGATTACTCG-1	DCIS
+ATATCTCCCTCGTTAA-1	DCIS
+AGCTCTTCCCAGTGCA-1	DCIS
+TCGCTAAACCGCTATC-1	DCIS
+CACATTCTTTCGATGG-1	DCIS
+GATATGCGGTAGCCAA-1	DCIS
+CGTTTCACTTCGGGCG-1	DCIS
+CCAATTACGGGTCGAG-1	DCIS
+GCAGGTAGAGTATGGT-1	DCIS
+GTCGTATTGGCGTACA-1	DCIS
+GAAATTAGCACGGATA-1	DCIS
+AATGCACCAAGCAATG-1	DCIS
+AGGACGCTCGATGTTG-1	DCIS
+GGCTAAAGGGCGGGTC-1	DCIS
+CATCTATCCCGTGTCT-1	DCIS
+CCCGACCATAGTCCGC-1	Stroma
+CGCGCCCGACTTAATA-1	Stroma
+TGCCACCTGGCGAAAC-1	Stroma
+CTGCCAAGGTTGGAAG-1	Stroma
+TCTCCAACGTAGGTTA-1	Stroma
+TTCTTGGAGTAATGAG-1	Stroma
+GTCTCGATCTGCTTTC-1	Stroma
+TACTCTCCGAACAAAT-1	Stroma
+ATCACATTAGAATATC-1	Stroma
+TACGGGATGCTAGCAG-1	Stroma
+AGCTGAAGTAAACCAA-1	Stroma
+CATGGGTCGGGTGTGG-1	DCIS
+CACCCACGAGGCAATT-1	DCIS
+TGCCATTACTAAAGAA-1	DCIS
+CCGTTACGTTAGAACA-1	DCIS
+GCCAGGAGTAACCGAT-1	DCIS
+GGAAAGTGCCCATGCC-1	DCIS
+TCTTACCGGAACTCGT-1	DCIS
+TATGTCAAGACCGACT-1	DCIS
+CCTAACTAAGGCTCTA-1	DCIS
+GCGGTGAACTGCGCTC-1	DCIS
+CCTCGCGCGATATAGG-1	DCIS
+ATCGGCAAGCAGTCCA-1	DCIS
+AGATCGTGCATAAGAT-1	DCIS
+ATTCAGGACCTATTTC-1	DCIS
+AGCTAGAAGCAGAAGT-1	DCIS
+TTCGCTATCTGACGTG-1	DCIS
+TTCCGCAGAGAAATAT-1	Lymphocytes
+CAGTACATTCTCTAAA-1	Lymphocytes
+GTGAAGATTTCAAGTG-1	Lymphocytes
+AGGTTGAGGCACGCTT-1	Stroma
+TCCCGTCAGTCCCGCA-1	Stroma
+TCCGATGACTGAGCTC-1	Stroma
+CAGCCTCCTGCAGAGG-1	Stroma
+CTTAGCCTTCCACATG-1	Stroma
+ATTAATGAACCAGTCG-1	Stroma
+ACGATACATAGAACTA-1	Stroma
+AGCCACTCCCGTGCTT-1	Lymphocytes
+ATACGGGTTTCGATTG-1	Stroma
+CTGTCAAATGGCTCGG-1	Lymphocytes
+GCTCGGAATTTAAAGC-1	DCIS
+TAGGCATGTTACGCCA-1	Lymphocytes
+TGGCAACTCGCGCGCC-1	Lymphocytes
+ATCAGTAGGCAGGGAT-1	Lymphocytes
+TATCGATCTATGCATA-1	Lymphocytes
+CGACTCAGGATGTTAT-1	Stroma
+GCCATATTGCACACAG-1	Stroma
+AATTCATAAGGGATCT-1	Stroma
+CGGTAGAGGTGCAGGT-1	Stroma
+AATGATGATACGCTAT-1	Stroma
+CTTGTGCTCACCGATT-1	Stroma
+TTCCAATCAGAGCTAG-1	Stroma
+CGATGGACCCTACGCC-1	Stroma
+GGTCGGATAAACGGCG-1	Stroma
+TTAGCTAATACGATCT-1	Stroma
+CTCGATATTTGCGAGC-1	Stroma
+ATTACTTACTGGGCAT-1	DCIS
+CTAGCCGATGTTATGA-1	DCIS
+TACTGCAATCAATTAC-1	Lymphocytes
+TAGTCTGTGACGTTGC-1	DCIS
+CTCGTTTCTAATGTTT-1	Lymphocytes
+TTCGTTCAACGAAGTT-1	DCIS
+TGCAGGATCGGCAAAG-1	Stroma
+ATAACGGAGTCCAACG-1	DCIS
+AACGATATGTCAACTG-1	DCIS
+GACAACGACCATTGAA-1	DCIS
+TTGACCATGTTCTCCG-1	Stroma
+AGTACGGGCACCTGGC-1	DCIS
+CGCCATCCGATTATGA-1	Lymphocytes
+AAGGTATCCTAATATA-1	Stroma
+TGTTGTCAAGAAGTCT-1	Lymphocytes
+CAGTGAATAAATGACT-1	Stroma
+CACCTTGCGAAACTCG-1	Lymphocytes
+CATTTAGCGGACCATG-1	Stroma
+CCAGTCTAGACGGCGC-1	Stroma
+TCGCTTTAAACGTTTG-1	Stroma
+GTGAAACGGCGCCACC-1	Stroma
+GGGCTCATCGAACCCA-1	Stroma
+TTGATGTGTAGTCCCG-1	Stroma
+CAGTAGCCCACGCGGT-1	Stroma
+AGCGCGGGTGCCAATG-1	Stroma
+TAATCGATCCGTACGT-1	Stroma
+AGTGGCGGCAATTTGA-1	Stroma
+CCTTTCAATGAAGAAA-1	Stroma
+CTCAGTCACGACAAAT-1	Lymphocytes
+ATAGGCTAGCTTCGCA-1	Lymphocytes
+CGGTTCAAGTAGGTGT-1	Lymphocytes
+CAGTCGAGGATGCAAT-1	Lymphocytes
+TATCACCCAACCGACC-1	Stroma
+AATGATGCGACTCCTG-1	Stroma
+TGGAACCACTGACACA-1	DCIS
+GCCAATAGGGCATCTC-1	DCIS
+TTCTTTGGTCGCGACG-1	DCIS
+ATTAGATTCCTCAGCA-1	DCIS
+GGGTCGTGGCAAGTGT-1	DCIS
+CAATAAACCTTGGCCC-1	DCIS
+ACTTCGCCATACGCAC-1	DCIS
+ATCTGGTTAAGACTGT-1	DCIS
+TCGTAAGACGACATTG-1	DCIS
+GTGTACCTTGGCTACG-1	DCIS
+GCCCGTAATACCTTCT-1	DCIS
+CGGTCAAGTGGGAACC-1	DCIS
+TTGTAAGGCCAGTTGG-1	DCIS
+GGAGCACCAAGAACTA-1	Stroma
+TAATAGTGACGACCAG-1	Stroma
+CTAAATCCTATTCCGG-1	Stroma
+CGAGTTCTGTCCCACC-1	Stroma
+AGGCAGATGCGTAAAC-1	Stroma
+AAGGATGAGGGACCTC-1	Stroma
+AGAGAACCGTCTAGGA-1	Stroma
+GAGGGCGCAGCTCTGC-1	Stroma
+AAGATTGGCGGAACGT-1	Stroma
+CCAGTAGTCTGATCCA-1	Stroma
+AAGGGACAGATTCTGT-1	Stroma
+ATAGAGTTATCAACTT-1	DCIS
+AAATTACCTATCGATG-1	DCIS
+GATCCTAAATCGGGAC-1	DCIS
+TTACAGACCTAAATGA-1	DCIS
+CCTCACCTTAGCATCG-1	DCIS
+CATGCGACCAGTTTAA-1	DCIS
+AACATATCAACTGGTG-1	DCIS
+CTATAAGAGCCAATCG-1	DCIS
+AATATCGAGGGTTCTC-1	DCIS
+GTACTCCTGGGTATGC-1	Stroma
+ATAAGTAGGATTCAGA-1	Stroma
+AGGTCGCGGAGTTACT-1	DCIS
+CTAATTCTCAGATATT-1	DCIS
+GCCAACCATTTCCGGA-1	DCIS
+TGATCCCAGCATTAGT-1	DCIS
+GAAACCATGGTGCGCT-1	DCIS
+TGGCCAAACTGAAGTA-1	DCIS
+GCTTCCGTCCCTAGAC-1	DCIS
+CAGCAGCCCGTTCCTT-1	DCIS
+TGTATAACAGATCCTG-1	DCIS
+CGCGGGAATTAGGCAG-1	DCIS
+TGCATGTGGTAATCTA-1	DCIS
+ACAATTTGAGCAGTGG-1	DCIS
+GAGCTAAGGGCATATC-1	DCIS
+CCAGATAGTTGAGTGA-1	DCIS
+CCACAATGTACGTCTT-1	DCIS
+CAATGGATCTCTACCA-1	DCIS
+TGTGGCAAAGCGTATG-1	Lymphocytes
+TAAAGCGTTAGGAGAA-1	Lymphocytes
+TCCGTTTAGCCTTGAA-1	Lymphocytes
+CAGCTCGACAAGTTAA-1	Lymphocytes
+GCCTATAGTGTCAGGG-1	Lymphocytes
+ATAGACAACGGGACCT-1	DCIS
+CTACTATCTTTCAGAG-1	DCIS
+GCGCTGCTTTGCATTT-1	DCIS
+GCGCATCCAGTCAGCA-1	DCIS
+GACTCGCGGGAATGAC-1	DCIS
+CTGGTAACGAGCTCTT-1	DCIS
+TCCGGCCTAGCGTACA-1	DCIS
+TCTAGGTGGCGACGCT-1	DCIS
+ACGCTAGTGATACACT-1	DCIS
+ATCTGCACCTCTGCGA-1	DCIS
+CCTCACCTGAGGGAGC-1	DCIS
+AGTGAGCCTCGCCGCC-1	DCIS
+ACGAGTACGGATGCCC-1	Stroma
+GGTACCATTAAGACGG-1	Stroma
+TTCTGCTAGACTCCAA-1	DCIS
+TAACTATTACGCCAAA-1	Stroma
+GCATTCAAGGCAACGC-1	DCIS
+AGTACATCATTTATCA-1	DCIS
+TTGTTGTGTGTCAAGA-1	DCIS
+ACTGTACGATACACAT-1	DCIS
+TCCACTTTATCTAGGT-1	DCIS
+GGTCTGAGAATCTGGA-1	DCIS
+TAGAAAGGTGGCGCTA-1	DCIS
+TATGTCTCATTGTGCC-1	DCIS
+GGATTTCACTTCTATA-1	DCIS
+TGAGTGGTCCGTGACG-1	DCIS
+CGCTTTCTTGCATTCG-1	DCIS
+ACCCAACGCCCGTGGC-1	Lymphocytes
+GAACGTCTCATGGTCG-1	Lymphocytes
+AGGGTTCCCTTTGGTT-1	Lymphocytes
+GTAGCTTCCTCTTGTT-1	DCIS
+GCATGAGGGACGCGGC-1	Lymphocytes
+CTACCCTAAGGTCATA-1	DCIS
+TCACCGCTCGGCACTC-1	DCIS
+GGCTCGCGTTGAGGTA-1	DCIS
+CTAACGAAACTTGCTG-1	DCIS
+TTAAACTCGAATTCAT-1	DCIS
+TACTTTACTGAGCCGG-1	DCIS
+GCTTGGATCGATTAGG-1	DCIS
+CGGTTATCCAACAGTG-1	DCIS
+CAGACCTGTAAGTGTT-1	DCIS
+GACGGTCAATAGAAGC-1	DCIS
+CTGACTGCGCAGCTCG-1	DCIS
+CCATACCTTTACTTGT-1	DCIS
+GTAATAAAGGGCTCCC-1	DCIS
+GTGAACTCCCATTCGA-1	DCIS
+GTGGTTACTTCTTTCG-1	DCIS
+TCAGAACCTCCACAGG-1	Stroma
+TCCCACTCTCTTCCGG-1	Stroma
+ATCTTGACTTGTCCAA-1	DCIS
+TCGGGAACGTGCCTAG-1	DCIS
+GTTAGCCGTAAATCAA-1	DCIS
+ATTTACTAAGTCCATT-1	DCIS
+GGAGGGCTTGGTTGGC-1	DCIS
+TCGGACGCCCAGCCCA-1	DCIS
+TCTGTGCCATCATAGT-1	DCIS
+GTACTGGAGTTAGACC-1	DCIS
+GGAATGCGCTAGCGTG-1	DCIS
+GTGTGAATAACTTAGG-1	DCIS
+GGTCGGCCAGGAGCTT-1	DCIS
+TAGCCGGCGGTCAGCG-1	DCIS
+CGGGTGTACCCATTTA-1	DCIS
+AGTGATTCAAGCAGGA-1	DCIS
+GTTGGATTGAGAACAC-1	DCIS
+CACACGCGCTGTCTTA-1	DCIS
+TAGACGCCCGTACCGG-1	DCIS
+GGTTTCAATCGGTCAG-1	DCIS
+AATCTGCGTTGGGACG-1	DCIS
+TTACGGATGGTTCGAG-1	DCIS
+CGGCAGGGTCGGGTTG-1	DCIS
+GCTTTCAGAGGAGGTG-1	DCIS
+TCTTCCCATGGGCACA-1	DCIS
+TACCGCGGACTTGCAG-1	DCIS
+AGAATTATGGATTCGA-1	DCIS
+ATTGATGAGTCCTAAC-1	Lymphocytes
+TAGGTCGCCGGAACTG-1	DCIS
+TAACCTACCGTCCGAG-1	Lymphocytes
+CTTAGTAGGCCTACAG-1	DCIS
+CTAGATGTGAGTGTAA-1	DCIS
+ACTCCCGAATTCGTTT-1	DCIS
+GTTCATCGTTTGGCTG-1	DCIS
+ACTTTACCCTCATGAA-1	DCIS
+GCGAGAGTTGCGTCCA-1	DCIS
+GTTCGGGCGTACCATT-1	DCIS
+CGACTTTGTATAGCCT-1	DCIS
+GCCATCGATGCTGCAT-1	DCIS
+GCATTTCCAAGGCTCC-1	DCIS
+ATGTAAGGCTGCTCTT-1	DCIS
+GCTAAGTAGTTTCTCT-1	DCIS
+ATAACGCCGGAGGGTC-1	DCIS
+GGATCCGGAATATACT-1	DCIS
+TGAAAGGACCTGACTC-1	DCIS
+TCCGCGGCAGCATCTG-1	DCIS
+TGCATATGTCTGTCAC-1	DCIS
+TGTAGGAGAAATTTCC-1	DCIS
+AGTGAGACTTCCAGTA-1	DCIS
+CCCAAACATGCTGCTC-1	DCIS
+GCTTATGAAGCAGGAA-1	DCIS
+TTCTAACCGAAGCTTA-1	DCIS
+GGATGTCCTTACCGCA-1	DCIS
+AGGGTGCTCTCGAGGG-1	DCIS
+AACTCTCAATAGAGCG-1	DCIS
+TCTGAATTCCGTACAA-1	DCIS
+GCGTGGTACTGGGTTA-1	DCIS
+CGTCGGATAGTGTTGA-1	DCIS
+ATATGTCTCCCTAGCC-1	Lymphocytes
+TCTTTAAGACTATGAA-1	Lymphocytes
+TCATTTAAGTCTCCGA-1	Lymphocytes
+GATATTGAGATTGGCG-1	Lymphocytes
+TGACATCGAGCGGACC-1	Lymphocytes
+GCGTAAATGGCCATAA-1	Lymphocytes
+ATTGTACAACTCGGCT-1	Lymphocytes
+TACGCTATAGAAACCT-1	DCIS
+CACCCAAATCTTATGT-1	Lymphocytes
+AGATGATGGAGTCTGG-1	DCIS
+CCACGGTGCCCGGTAG-1	DCIS
+TCAAGAAATACTAGCT-1	DCIS
+AGGTATAATTGATAGT-1	DCIS
+CAAGGTCCTATAGGCT-1	DCIS
+CCGGCACGACCGTTTC-1	DCIS
+ACCTCCGTTATTCACC-1	DCIS
+AAGAGGCATGGATCGC-1	DCIS
+CTATTTGGTTACGGAT-1	DCIS
+GTACAGAGGCAAGGGT-1	Invasive cancer + lymphocytes
+GGGCCGGCCGAAGTAC-1	DCIS
+CCTGAACGATATATTC-1	Invasive cancer + lymphocytes
+CCGGGCTGCTCCATAC-1	DCIS
+TACTTGTTAGTAGTCC-1	Invasive cancer + lymphocytes
+CCTAGGCGTAGCGATC-1	DCIS
+CTGGCGCACAGGTCTG-1	DCIS
+ACTTATACTTACCCGG-1	DCIS
+GAAGTCTCCCTAGCGA-1	DCIS
+ACCGATGGTAGCATCG-1	DCIS
+CGAGTTTATCGGACTG-1	DCIS
+CATAACGGACAGTCGT-1	DCIS
+TGACGATGCACTAGAA-1	DCIS
+TAGGGAGCTTGGGATG-1	Lymphocytes
+AGGGTCGATGCGAACT-1	DCIS
+TATATCCCTGGGAGGA-1	Lymphocytes
+CATCTTACACCACCTC-1	Lymphocytes
+GTGCGACAGGGAGTGT-1	Lymphocytes
+CCGATCTCAACCTTAT-1	Lymphocytes
+ACGATCATCTTGTAAA-1	DCIS
+GAAAGAACAGCGTTAT-1	DCIS
+CTAGGTCTGAAGGAAT-1	DCIS
+ATATCAACCTACAGAG-1	DCIS
+AAATAGCTTAGACTTT-1	DCIS
+GCGACATGTAAACATC-1	DCIS
+ATAAGTAGGGCGACTC-1	DCIS
+GCGAGCGCATGCTCCC-1	DCIS
+AGGGACCGGCTGCGTT-1	DCIS
+CCTATGAAGTGGTGCC-1	DCIS
+GCTTACGTAGTTAGTA-1	DCIS
+TTATGATCTTAACGAA-1	Invasive cancer + lymphocytes
+CGCCGCCCATGCCTGT-1	Invasive cancer + lymphocytes
+CTGGGATAAATAATGG-1	Invasive cancer + lymphocytes
+GTGCCCGTTCGGATTC-1	Invasive cancer + lymphocytes
+TTCAATACTCTGAATC-1	Invasive cancer + lymphocytes
+CGCACATGTCCACTAC-1	Invasive cancer + lymphocytes
+AGAAGAGCGCCGTTCC-1	Invasive cancer + lymphocytes
+GATAACTCGCACTGTG-1	Invasive cancer + lymphocytes
+AGTCGACGGTCTCAAG-1	DCIS
+GTGACCGCACACTACG-1	DCIS
+GTATGTGGGTCTAGTT-1	DCIS
+CTTGAGTTAGGGTAAT-1	DCIS
+TTAGCTGATTTGCCGT-1	DCIS
+GCTGTTGCTACCGAAC-1	DCIS
+TATTACCATCCTGCTT-1	DCIS
+TTGAATTCACGTGAGG-1	DCIS
+CCATCTCACCAGTGAA-1	DCIS
+CGCACGTGCGCTATCA-1	DCIS
+ACCCGGATGACGCATC-1	Lymphocytes
+CGCTAGAGACCGCTGC-1	DCIS
+ATAGTTCCACCCACTC-1	Lymphocytes
+GCAGACCCAGCACGTA-1	DCIS
+TAGACTACCTAGCGTT-1	Lymphocytes
+GGTTCTACTCGTCTGA-1	DCIS
+GACTCACCCACGTGAG-1	DCIS
+AGCTCTTCGTAACCTT-1	DCIS
+ACTATCCAGGGCATGG-1	DCIS
+AAGGATCGATCGCTTG-1	DCIS
+ATATCGGTAGGGAGAT-1	DCIS
+ATTTGTCTTGGGAGCT-1	Invasive cancer + lymphocytes
+CCTCGGACCGGGATAG-1	Invasive cancer + lymphocytes
+TAGGTGCTCGCCTAGC-1	Invasive cancer + lymphocytes
+CTTTAGGAACACTGTT-1	Invasive cancer + lymphocytes
+TCGGGCCGTCGTGGTA-1	Invasive cancer + lymphocytes
+AGTGCTTGCACGAATA-1	Invasive cancer + lymphocytes
+TGCAGTTTCCTCCCAT-1	Invasive cancer + lymphocytes
+TGAGAGATTTACCACG-1	Invasive cancer + lymphocytes
+GAAACAGATGACCACC-1	DCIS
+AGCAACATATCTTATT-1	Invasive cancer + lymphocytes
+CAAGTGTGGTTGCAAA-1	DCIS
+GCCTCATCTGGAAATA-1	DCIS
+AACCCTACTGTCAATA-1	DCIS
+ACGTATTACTCCGATC-1	DCIS
+TCTGGGAACCTTTGAA-1	DCIS
+GCTCGCTCATGTCCAA-1	DCIS
+GCGCAAGAGCGCGCTG-1	DCIS
+TTGACGCTCCATGAGC-1	DCIS
+TATAGATGGTCGCAGT-1	DCIS
+TTACATGCCACAACTA-1	DCIS
+ACATGGCGCCAAAGTA-1	DCIS
+CATGACTTCGCTGAAT-1	DCIS
+GACAGCCAGACCTGAC-1	Invasive cancer + lymphocytes
+GGCGAAATCTAACTTG-1	Invasive cancer + lymphocytes
+CTGGTAACACATAGAA-1	Invasive cancer + lymphocytes
+TAGCCATTTCAAAGTC-1	Invasive cancer + lymphocytes
+GGGATTTACCGCACCT-1	Invasive cancer + lymphocytes
+ATGCCATTTGCGACCA-1	Invasive cancer + lymphocytes
+GAATAGACGCGACCCA-1	Invasive cancer + lymphocytes
+TGTATGGCGCAGACAG-1	Invasive cancer + lymphocytes
+GGATGAAGATCGCTGA-1	Invasive cancer + lymphocytes
+CGACAATTTGATCTAA-1	Invasive cancer + lymphocytes
+AAAGTTGACTCCCGTA-1	Invasive cancer + lymphocytes
+CACGCGGAACTGTTGC-1	DCIS
+GGTTACCACCCTCGGG-1	Invasive cancer + lymphocytes
+CGAGTACTAAAGAGGA-1	Invasive cancer + lymphocytes
+GCAAGAATTCCTTGGC-1	Invasive cancer + lymphocytes
+TCGCCGAAGTTGCGTC-1	Invasive cancer + lymphocytes
+GCCACAATTTAAGGAC-1	Invasive cancer + lymphocytes
+TGAGTGCCTCTTAAAT-1	Invasive cancer + lymphocytes
+GAGTGTGCGGTACCCA-1	Invasive cancer + lymphocytes
+CAAGATATTATAACGT-1	Invasive cancer + lymphocytes
+ACACACCAGGACCAGT-1	Invasive cancer + lymphocytes
+ATGGGCCTCGGCCTCT-1	Invasive cancer + lymphocytes
+AAGGTGATAAACCAGC-1	Invasive cancer + lymphocytes
+TCTTACTTATGCCTCT-1	Invasive cancer + lymphocytes
+AAAGTGTGATTTATCT-1	Invasive cancer + lymphocytes
+CTTCTATGTTGAAGTA-1	Invasive cancer + lymphocytes
+CACCGTTGCGCGATAT-1	Invasive cancer + lymphocytes
+TCTAGCAATCTCCGCC-1	Invasive cancer + lymphocytes
+AGTTTGGCCAGACCTA-1	Invasive cancer + lymphocytes
+TTGTAAGGACCTAAGT-1	Invasive cancer + lymphocytes
+AAATTTGCGGGTGTGG-1	Invasive cancer + lymphocytes
+AAGTTCGGCCAACAGG-1	Invasive cancer + lymphocytes
+CCGCTTACCTCACTCT-1	Invasive cancer + lymphocytes
+ATCACGTGCTAATTAA-1	Invasive cancer + lymphocytes
+GGTGAAGTACAGGGAT-1	Invasive cancer + lymphocytes
+GCTGTATTACTGGCCC-1	Invasive cancer + lymphocytes
+AACGGCCATCTCCGGT-1	Invasive cancer + lymphocytes
+TAAGTAACATCTTGAC-1	Invasive cancer + lymphocytes
+TTCTTGAGCCGCGCTA-1	Invasive cancer + lymphocytes
+AGTGCGTAGCTCGTAA-1	Invasive cancer + lymphocytes
+GGGATGGTCGTAACCG-1	Invasive cancer + lymphocytes
+GTCTGGGCGGTCGAGA-1	Invasive cancer + lymphocytes
+CGGAACGTAAACATAG-1	Invasive cancer + lymphocytes
+CAAACGAGTATCGCAG-1	Invasive cancer + lymphocytes
+GCCCGACTTCTTCCCG-1	Invasive cancer + lymphocytes
+CTGGCATCCGAATGAG-1	Invasive cancer + lymphocytes
+AAGTGCGTTAGAATCT-1	Invasive cancer + lymphocytes
+AGAAGTGATTCGTGAT-1	Invasive cancer + lymphocytes
+TACCTTAAGATTTCCC-1	Invasive cancer + lymphocytes
+AATGACAGCAATGTCT-1	Invasive cancer + lymphocytes
+TCAACGCAGGAAATAA-1	Invasive cancer + lymphocytes
+TATTCCTCCGCCCACT-1	Invasive cancer + lymphocytes
+ATCAAACGAAGGTTTG-1	Invasive cancer + lymphocytes
+TTGATTAGCTGTTTCT-1	Invasive cancer + lymphocytes
+CTGCTGAGGCCACGAA-1	Invasive cancer + lymphocytes
+CCGTGTTAAATTCCAT-1	Invasive cancer + lymphocytes
+CACGTCGGCAACCTCT-1	Invasive cancer + lymphocytes
+GTATTCTGAGAAACGA-1	Invasive cancer + lymphocytes
+CGGTGCGCGTTGGTCC-1	Invasive cancer + lymphocytes
+GTGATTCGCCGCTCAA-1	Invasive cancer + lymphocytes
+GCCCGCGCGTAAACGG-1	Invasive cancer + lymphocytes
+AACGTACTGTGGGTAC-1	Invasive cancer + lymphocytes
+GAGTATGCCCGCCTTG-1	Invasive cancer + lymphocytes
+TGATTCTGTCGCCGGT-1	Invasive cancer + lymphocytes
+GGGCGGCAAATGAATT-1	Invasive cancer + lymphocytes
+TTCCAATCTGGCTATC-1	Invasive cancer + lymphocytes
+GGAACCGTGTAAATTG-1	Invasive cancer + lymphocytes
+TTGGTCACACTCGTAA-1	Invasive cancer + lymphocytes
+CGAACCCGCATGCGTC-1	Invasive cancer + lymphocytes
+TACCAGAAGTAGGTTC-1	Lymphocytes
+GATGTAACGAACCACC-1	Invasive cancer + lymphocytes
+CTCCCTCCTTTCGATC-1	Invasive cancer + lymphocytes
+TTGGAAGAATACAGTC-1	Invasive cancer + lymphocytes
+AGTTAAGTCAACCGCT-1	Invasive cancer + lymphocytes
+CTCATGGTAATTTGCG-1	Invasive cancer + lymphocytes
+AAAGTAGCATTGCTCA-1	Invasive cancer + lymphocytes
+TTGTGGTAGGAGGGAT-1	Invasive cancer + lymphocytes
+AGTCGTGGGCATTACG-1	Invasive cancer + lymphocytes
+ACCTAAGTACCTTTCA-1	Invasive cancer + lymphocytes
+GTAGAGGGAGACAAGT-1	Invasive cancer + lymphocytes
+GATCCTCGACACTGGC-1	Invasive cancer + lymphocytes
+CCTACATTCACAGACG-1	Invasive cancer + lymphocytes
+TTGACCGTGTTAATGA-1	Invasive cancer + lymphocytes
+TCTGTTACCCAGCATA-1	Invasive cancer + lymphocytes
+CTAACTGGTCCGGTTC-1	Invasive cancer + lymphocytes
+AGCGACAGGAACGGTC-1	Invasive cancer + lymphocytes
+TAATAGAACAGAGTTA-1	Invasive cancer + lymphocytes
+ACAGGTGGAGGTGAGG-1	Invasive cancer + lymphocytes
+TGCGAGAATATTACCC-1	Invasive cancer + lymphocytes
+TTGCGTCGGCCAACCG-1	Invasive cancer + lymphocytes
+AGGCTTCCCGAAGAAG-1	Invasive cancer + lymphocytes
+GCGGACCGCGTTGTGG-1	Invasive cancer + lymphocytes
+GTAATCTGATTCTTCG-1	Invasive cancer + lymphocytes
+CCGCGGAATGCGTCAC-1	Invasive cancer + lymphocytes
+TTCCACACAGATTTGA-1	Invasive cancer + lymphocytes
+CTTCTATTAATGCTAG-1	Invasive cancer + lymphocytes
+CATTTGAGTGGTACGT-1	Invasive cancer + lymphocytes
+TCACAGCAAACTCGAA-1	Lymphocytes
+CAGACGAACCTGATAC-1	Lymphocytes
+TAGCTAGAAGGCATGA-1	Lymphocytes
+CGCGAGTCTGCCGGGT-1	Invasive cancer + lymphocytes
+TGCGTCATGACTGAGC-1	Invasive cancer + lymphocytes
+GTATGAAATTTCACTC-1	Invasive cancer + lymphocytes
+TTGGTTGCGGTGCGCG-1	Invasive cancer + lymphocytes
+ACAGAACTGAGAACAA-1	Invasive cancer + lymphocytes
+CTACTATCATAGGTTT-1	Invasive cancer + lymphocytes
+CCTCTATCGATTAGCA-1	Invasive cancer + lymphocytes
+CCGTATCTCGTCGTAG-1	Invasive cancer + lymphocytes
+TCACGATGTCCGTGGA-1	Invasive cancer + lymphocytes
+TCAACAAAGATAATTC-1	Invasive cancer + lymphocytes
+ATGACGCGTTCTATCC-1	Invasive cancer + lymphocytes
+ATTTGCGCGAGTAGCT-1	Invasive cancer + lymphocytes
+TTCTTGGACGATCTGC-1	Invasive cancer + lymphocytes
+AGACGACGATGCCGCT-1	Invasive cancer + lymphocytes
+GGTCTCTGAATGGACT-1	Invasive cancer + lymphocytes
+GCTCAATCCGTTTATT-1	Invasive cancer + lymphocytes
+CCAGAAAGCAACTCAT-1	Invasive cancer + lymphocytes
+CACCGTTAGGGATCAC-1	Invasive cancer + lymphocytes
+AATAACACTAGAACAA-1	Invasive cancer + lymphocytes
+CACCCGGTTTGTGACT-1	Invasive cancer + lymphocytes
+CCACCAACTTTACTGT-1	Invasive cancer + lymphocytes
+AACTCTCAGTGTGCTC-1	Invasive cancer + lymphocytes
+AAACCGTTCGTCCAGG-1	Invasive cancer + lymphocytes
+CAGCGATTCCCTTCAA-1	Invasive cancer + lymphocytes
+GCTAGCTTGAATAGCT-1	Invasive cancer + lymphocytes
+TTGCGGCATCAGAAAG-1	Invasive cancer + lymphocytes
+AATAGAACAGAGTGGC-1	Invasive cancer + lymphocytes
+GCCATCGAGCTGCGTG-1	Invasive cancer + lymphocytes
+ACACTGATCAAGGTGT-1	Invasive cancer + lymphocytes
+ACCAACGCTTATTTAT-1	Invasive cancer + lymphocytes
+GACATCGATTTATAAC-1	Lymphocytes
+CAGACACCGATCGCTG-1	Lymphocytes
+CCAAGAAAGTGGGCGA-1	Lymphocytes
+GGTAGACCGTTGGGCG-1	Lymphocytes
+CAGATCCTGGTTTGAA-1	Invasive cancer + lymphocytes
+CTTCAGTGGTCGCCTA-1	Invasive cancer + lymphocytes
+GGGCAACCGCACGTGC-1	Invasive cancer + lymphocytes
+GACCCAATTATGATAC-1	Invasive cancer + lymphocytes
+GAAGCTCGGACCCGTC-1	Invasive cancer + lymphocytes
+CGTCGGGTCTAAGCGC-1	Invasive cancer + lymphocytes
+GAGGCCCGACTCCGCA-1	Invasive cancer + lymphocytes
+TTGCCATAGCCCGCTC-1	Invasive cancer + lymphocytes
+TAACATACACGCGATC-1	Invasive cancer + lymphocytes
+CCGACGGGCATGAGGT-1	Invasive cancer + lymphocytes
+AATGTGCCCGAGGTGT-1	Invasive cancer + lymphocytes
+AGCTGTAACCTCAATC-1	Invasive cancer + lymphocytes
+CGAGTGAAGGTACCAG-1	Invasive cancer + lymphocytes
+AGTCTCACAAGACTAC-1	Invasive cancer + lymphocytes
+AAATTGATAGTCCTTT-1	Invasive cancer + lymphocytes
+TAAGTCGCCGAGTATC-1	Invasive cancer + lymphocytes
+GCGGAGAAACTTCGCA-1	Invasive cancer + lymphocytes
+GGCAAAGGCGCCAATA-1	Invasive cancer + lymphocytes
+ATTTCCGGGTTCTGCG-1	Lymphocytes
+TAAACCCAGGAGGGCA-1	Lymphocytes
+TTCGGGCGCTAGTCTT-1	Lymphocytes
+GTGGAGTCGGCGGTTG-1	Lymphocytes
+GCACGCCTACTTAGAT-1	Lymphocytes
+CAATATTCTTGACCTA-1	Invasive cancer + lymphocytes
+CGTTTGTGTAGAGGGT-1	Invasive cancer + lymphocytes
+CATAGCGTTGCCCACC-1	Invasive cancer + lymphocytes
+TGATACATTTAGCCGT-1	Invasive cancer + lymphocytes
+TTCCGGCCTTGAGGCT-1	Invasive cancer + lymphocytes
+CCTATACCGTCCTGTC-1	Invasive cancer + lymphocytes
+TCGTTGCTATCCGGTC-1	Invasive cancer + lymphocytes
+TGGCGACTGCTCCAAA-1	Invasive cancer + lymphocytes
+CAGAGGCGATGCATGA-1	Invasive cancer + lymphocytes
+TCACAGGAGAATAAGA-1	Invasive cancer + lymphocytes
+GGGTTAACATTTGAGT-1	Lymphocytes
+GCGGGCGAGCCTTACC-1	Lymphocytes
+TGCCAATGGGTACTCT-1	Lymphocytes
+AGGGACTCTACGCGAC-1	Lymphocytes
+GACGCCGTAAAGGCTA-1	Lymphocytes
+AAAGGCTCTCGCGCCG-1	Lymphocytes
+TATTATGTTTGCCTGC-1	Invasive cancer + lymphocytes
+GTCAAAGAAGTGGTGT-1	Invasive cancer + lymphocytes
+GGGACAGAGTTACTCC-1	Invasive cancer + lymphocytes
+AGCAACCGAAAGTAAT-1	Invasive cancer + lymphocytes
+CTCTCTAACTGCCTAG-1	Invasive cancer + lymphocytes
+ATACGGAACGTCGTTT-1	Invasive cancer + lymphocytes
+TCGGTCCCGACAATAG-1	Invasive cancer + lymphocytes
+CGCGCAAATGTCCAGA-1	Invasive cancer + lymphocytes
+TCTAATACTGCCTCAG-1	Invasive cancer + lymphocytes
+CTCGGTTGTCGGCCCT-1	Invasive cancer + lymphocytes
+GGTAACCGGGAGGATA-1	Invasive cancer + lymphocytes
+CAGGCGCACGGTGGTC-1	Invasive cancer + lymphocytes
+TCATCGATGGTCCCAA-1	Invasive cancer + lymphocytes
+CAAAGATTATTGGGCC-1	Invasive cancer + lymphocytes
+ACAATGAATACGGAGA-1	Invasive cancer + lymphocytes
+GCTCCTGACATACTGG-1	Invasive cancer + lymphocytes
+GATGACAAGTAGGGCA-1	Invasive cancer + lymphocytes
+TACGCCGAGGGTACCC-1	Lymphocytes
+AAGCGTCCCTCATCGA-1	Lymphocytes
+CACTCCTATGTAAGAT-1	Lymphocytes
+TCGAGCCAGGCAGGCC-1	Lymphocytes
+TCGTCAAGTACGCGCA-1	Lymphocytes
+CCCGTAGCTGGGAAGA-1	Lymphocytes
+ACCCTATGCCATATCG-1	Lymphocytes
+GTGGTATAGTCTGCCG-1	Invasive cancer + lymphocytes
+CCGGTTTGTAATTGTG-1	Invasive cancer + lymphocytes
+GTCGCCGTTGTGTGTT-1	Invasive cancer + lymphocytes
+TACTGAACAGATTTAG-1	Invasive cancer + lymphocytes
+TATTAACCTGACCGCG-1	Invasive cancer + lymphocytes
+CTGTAGCCATCTCACT-1	Invasive cancer + lymphocytes
+TACTATGGTTCCTCAG-1	Invasive cancer + lymphocytes
+GAGTCAGACCAGAATC-1	Invasive cancer + lymphocytes
+TAAGGCATAACATCAA-1	Invasive cancer + lymphocytes
+CTTCCGCTCCGTGAAG-1	Invasive cancer + lymphocytes
+GGGCTATGATCGATGG-1	Invasive cancer + lymphocytes
+GGTCGGTCGTCCACAG-1	Lymphocytes
+GGGACCCGTATATCTT-1	Lymphocytes
+GAAAGCAGTGCACTTT-1	Lymphocytes
+AGCGCATAATGAATCG-1	Lymphocytes
+GCTGCTAAGTAGTCGA-1	Lymphocytes
+AATAGTCCGTCCCGAC-1	Lymphocytes
+ACCGGTCAGGTACACC-1	Invasive cancer + lymphocytes
+GTGGAGCGTTTACCGA-1	Invasive cancer + lymphocytes
+AGGCGGTTTGTCCCGC-1	Invasive cancer + lymphocytes
+TCCCTGGCGTATTAAC-1	Invasive cancer + lymphocytes
+AAACACCAATAACTGC-1	Invasive cancer + lymphocytes
+TGGACGCAATCCAGCC-1	Invasive cancer + lymphocytes
+GGAACCTTGACTCTGC-1	Invasive cancer + lymphocytes
+GTATCTCAGTCTTGAC-1	Invasive cancer + lymphocytes
+GCTGAATCTTCCAATC-1	Invasive cancer + lymphocytes
+AGATGCAAGACGTGCA-1	Invasive cancer + lymphocytes
+TTAAGGCCCGTACTTT-1	Invasive cancer + lymphocytes
+AGTATGCTGGAGACCA-1	Invasive cancer + lymphocytes
+GCGGCAAAGTATTGCC-1	Invasive cancer + lymphocytes
+GCGCAAATATATTCAA-1	Invasive cancer + lymphocytes
+GAAGAAACGATATTGT-1	Invasive cancer + lymphocytes
+GGACCTCTAGGCCGCC-1	Invasive cancer + lymphocytes
+AACAGCTGTGTGGCAA-1	Invasive cancer + lymphocytes
+TCGAATATCCCGCAGG-1	Invasive cancer + lymphocytes
+GCGACCCAACCATCTG-1	Invasive cancer + lymphocytes
+AGAGAAGGAGTACAAT-1	Invasive cancer + lymphocytes
+GGCTCCTCCACCTGTT-1	Invasive cancer + lymphocytes
+TCAGTGTATACGTCAT-1	Invasive cancer + lymphocytes
+ATTATTATGTCCGTCA-1	Invasive cancer + lymphocytes
+TTAGGTCATAACCGAC-1	Lymphocytes
+AAGATGGCACCGGACC-1	Invasive cancer + lymphocytes
+CTACAAGAAATAACCC-1	Lymphocytes
+ACTATTTCCGGGCCCA-1	Invasive cancer + lymphocytes
+TTGTTTCACATCCAGG-1	Invasive cancer + lymphocytes
+CGCTGTGTGGATGTTG-1	Invasive cancer + lymphocytes
+TCAACATAGCGCCCTA-1	Invasive cancer + lymphocytes
+TACTCTTTCGTCTTCA-1	Invasive cancer + lymphocytes
+ACCCGTGTCATCAGTA-1	Lymphocytes
+CCGGAGCGTACTTTCT-1	Lymphocytes
+GCTGGTTTAGGCCATA-1	Invasive cancer + lymphocytes
+TGTCGTTATCACATAT-1	Invasive cancer + lymphocytes
+ACACATGATCAAATCT-1	Invasive cancer + lymphocytes
+TATCCATCTCGGTTAG-1	Invasive cancer + lymphocytes
+CTCGTCGAGGGCTCAT-1	Invasive cancer + lymphocytes
+ATCAATGCCGTGGCTG-1	Invasive cancer + lymphocytes
+GAAACATAGGAAACAG-1	Invasive cancer + lymphocytes
+TAATAGGTCACCAGAA-1	Invasive cancer + lymphocytes
+CACCAGTCAGCATGCA-1	Invasive cancer + lymphocytes
+GAGCGCTGTTAGGTAA-1	Invasive cancer + lymphocytes
+CCCTATGTAGAGCAGA-1	Invasive cancer + lymphocytes
+GATCGCTATATCTCAG-1	Invasive cancer + lymphocytes
+AAGGGACTATGCATTC-1	Invasive cancer + lymphocytes
+CTCGGGTTCTCTGGCC-1	Invasive cancer + lymphocytes
+TATATATCGAGAAATG-1	Invasive cancer + lymphocytes
+ACCCGAGCGAAATTAC-1	Invasive cancer + lymphocytes
+TTGTTTCATTAGTCTA-1	Invasive cancer + lymphocytes
+ATGGGACCTGCTGAAC-1	Invasive cancer + lymphocytes
+TGCGACGGCCGAACGT-1	Invasive cancer + lymphocytes
+AGCTAACAAGCAATGT-1	Invasive cancer + lymphocytes
+CGTGTCTCGTTACGAC-1	Invasive cancer + lymphocytes
+CTAAATCCGGTGTACA-1	Invasive cancer + lymphocytes
+GAATAGTGCTCGATTA-1	Invasive cancer + lymphocytes
+AACAATACATTGTCGA-1	Invasive cancer + lymphocytes
+CACATCGTGCACGCGC-1	Invasive cancer + lymphocytes
+CCCAATGAGATTTGCA-1	Invasive cancer + lymphocytes
+CTTAGGTATAGACCAG-1	Invasive cancer + lymphocytes
+TGACTCCGAATCATAC-1	Invasive cancer + lymphocytes
+ACTACATCCCGACAAG-1	Invasive cancer + lymphocytes
+TTGCCGCAGACCTACA-1	Invasive cancer + lymphocytes
+TAAGAGGGACAGGGAC-1	Invasive cancer + lymphocytes
+CGAATGAAGTCATTGC-1	Invasive cancer + lymphocytes
+AAGGGAACGACTGGCT-1	Invasive cancer + lymphocytes
+CGAATCTGCTCGACGC-1	Invasive cancer + lymphocytes
+ATCGTGGAAAGTCTGG-1	Invasive cancer + lymphocytes
+CCTATGGCTCCTAGTG-1	Invasive cancer + lymphocytes
+CGTCGCTTGGTTATAC-1	Invasive cancer + lymphocytes
+TGCTTAGAGAGAATGC-1	Invasive cancer + lymphocytes
+GATTGCTCCAGTTGCA-1	Invasive cancer + lymphocytes
+CGTGCTTCTACCTAAA-1	Invasive cancer + lymphocytes
+ACTCCAATATCATCAT-1	Invasive cancer + lymphocytes
+GCCGACCCACGACTGC-1	Invasive cancer + lymphocytes
+GAGGGTAGTAACAAAG-1	Invasive cancer + lymphocytes
+GGCCGAGACTCTGGTG-1	Invasive cancer + lymphocytes
+TATATAGGGCTTTACG-1	Invasive cancer + lymphocytes
+TGCCGGATGTACGAGC-1	Invasive cancer + lymphocytes
+TCCATCAATACTAATC-1	Invasive cancer + lymphocytes
+ACCTCGAACTTATGCT-1	Invasive cancer + lymphocytes
+ACAAACCATGCGTCCT-1	Invasive cancer + lymphocytes
+ACACCGGTCTGACCGC-1	Invasive cancer + lymphocytes
+ATGGCAGCATTACGAT-1	Invasive cancer + lymphocytes
+CTGGTGAATGGGCCTA-1	Invasive cancer + lymphocytes
+CACAGAGACGAGGACG-1	Invasive cancer + lymphocytes
+GCACAAACCCTAGATG-1	Invasive cancer + lymphocytes
+ACTATGTCCAGCTGCC-1	Invasive cancer + lymphocytes
+AAGCCGCCGTGAAATC-1	Invasive cancer + lymphocytes
+ATGGGTGTATACCTCC-1	Invasive cancer + lymphocytes
+TAAGCGCGAATCAAAT-1	Invasive cancer + lymphocytes
+AGCCCGGCATTAGAGG-1	Invasive cancer + lymphocytes
+GTGATCAAGCGTGCAC-1	Invasive cancer + lymphocytes
+CTGCCTTTAATACCTT-1	Invasive cancer + lymphocytes
+TACCTCCACACCAATG-1	Invasive cancer + lymphocytes
+GAGCATCAACAACTTG-1	Invasive cancer + lymphocytes
+GGGAACGGTTTCAGAT-1	Invasive cancer + lymphocytes
+CACCGGTAGAGACATT-1	Invasive cancer + lymphocytes
+ACTCATGGCAGCCTTC-1	Invasive cancer + lymphocytes
+CATCCAATATAGTTTG-1	Invasive cancer + lymphocytes
+CAGATATGAAGATGAC-1	Invasive cancer + lymphocytes
+GCAAAGGGCGTTAGCC-1	Invasive cancer + lymphocytes
+CTGTTGTTCAGTCGTA-1	Invasive cancer + lymphocytes
+AAAGGCCCTATAATAC-1	Invasive cancer + lymphocytes
+AACATTGAAGTTGATC-1	Invasive cancer + lymphocytes
+GCTAGCGATAGGTCTT-1	Invasive cancer + lymphocytes
+ATTGCCTATTAGACCG-1	Invasive cancer + lymphocytes
+GGGCGTTTACATTCAT-1	Invasive cancer + lymphocytes
+AGTGACTGTGACACAA-1	Invasive cancer + lymphocytes
+GACCGATTAAATATGT-1	Invasive cancer + lymphocytes
+GTCGAATTTGGGCGCT-1	Invasive cancer + lymphocytes
+TCACGGCCCAAGAGAG-1	Invasive cancer + lymphocytes
+CTACGATCCTATCCTA-1	Invasive cancer + lymphocytes
+TGCAGTGGTAGGGAAC-1	Invasive cancer + lymphocytes
+AGCGAGACGTGAAGGC-1	Invasive cancer + lymphocytes
+CAGTGTTAATCTCTCA-1	Invasive cancer + lymphocytes
+GATCGCTGTGGTGCGT-1	Invasive cancer + lymphocytes
+CTCTGCAGGCATTCTT-1	Invasive cancer + lymphocytes

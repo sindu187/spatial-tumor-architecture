@@ -1,0 +1,21 @@
+"seurat_clusters","Classification","n","cluster_total","fraction"
+"0","DCIS",223,272,0.819852941176471
+"0","Stroma",26,272,0.0955882352941176
+"0","Invasive cancer + lymphocytes",14,272,0.0514705882352941
+"0","Lymphocytes",7,272,0.0257352941176471
+"0","Normal + stroma + lymphocytes",2,272,0.00735294117647059
+"1","Stroma",95,259,0.366795366795367
+"1","Invasive cancer + lymphocytes",59,259,0.227799227799228
+"1","Lymphocytes",56,259,0.216216216216216
+"1","DCIS",49,259,0.189189189189189
+"2","Normal + stroma + lymphocytes",227,248,0.915322580645161
+"2","Stroma + adipose tissue",21,248,0.0846774193548387
+"3","Invasive cancer + lymphocytes",141,156,0.903846153846154
+"3","Lymphocytes",15,156,0.0961538461538462
+"4","Stroma + adipose tissue",92,115,0.8
+"4","Stroma",12,115,0.104347826086957
+"4","Normal + stroma + lymphocytes",8,115,0.0695652173913043
+"4","Invasive cancer + lymphocytes",2,115,0.0173913043478261
+"4","DCIS",1,115,0.00869565217391304
+"5","Invasive cancer + lymphocytes",99,102,0.970588235294118
+"5","Lymphocytes",3,102,0.0294117647058824

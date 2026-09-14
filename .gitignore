@@ -1,0 +1,24 @@
+# Raw input data (large; regenerate via commands documented in module READMEs)
+data/raw/
+
+# All R object files (.rds) across every module's results -- these are
+# intermediate/final pipeline artifacts (Seurat/CellChat/inferCNV
+# objects), individually large and not human-readable. The actual
+# deliverables -- summary CSVs and plots -- are kept.
+results/**/*.rds
+
+# Large intermediate text matrices (regeneratable from raw data)
+results/**/counts_matrix.txt
+
+# inferCNV's own internal step-by-step checkpoint dump
+results/**/infercnv_output/
+
+# Nextflow housekeeping (every module + the master both have these)
+.nextflow*
+**/.nextflow*
+work/
+**/work/
+
+# macOS junk
+.DS_Store
+**/.DS_Store

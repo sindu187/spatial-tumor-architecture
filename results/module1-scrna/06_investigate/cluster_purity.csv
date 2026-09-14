@@ -1,0 +1,14 @@
+"seurat_clusters","celltype_major","n","cluster_total","fraction"
+"7","T-cells",270,280,0.964285714285714
+"2","Cancer Epithelial",827,839,0.98569725864124
+"5","CAFs",582,587,0.991482112436116
+"6","B-cells",367,369,0.994579945799458
+"3","Normal Epithelial",602,604,0.996688741721854
+"4","Myeloid",601,602,0.998338870431894
+"0","T-cells",2230,2233,0.998656515897895
+"1","T-cells",1859,1859,1
+"8","Endothelial",216,216,1
+"9","Normal Epithelial",123,123,1
+"10","PVL",86,86,1
+"11","Myeloid",72,72,1
+"12","Plasmablasts",40,40,1
