@@ -1,4 +1,4 @@
-# Raw input data (large; regenerate via commands documented in module READMEs)
+# Raw input data (large; download from GEO GSE176078, see README)
 data/raw/
 
 # All R object files (.rds) across every module's results -- these are
